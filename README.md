@@ -9,6 +9,7 @@ Analyze salary distribution across departments and job levels.
 Examine attrition based on performance, gender, region, and promotions.
 Provide actionable insights for HR to improve retention and salary structures.
 🔍 Key Insights & Findings
+
 Here’s what the analysis revealed:
 
 📊 1. Hiring Trends (2015–2025):
